@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miami-dade-plumbing.com/sitemap.xml
